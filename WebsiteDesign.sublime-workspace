@@ -1,0 +1,802 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min"
+			],
+			[
+				"sd",
+				"sd"
+			],
+			[
+				"r",
+				"rug	Add Tick Marks"
+			],
+			[
+				"months",
+				"months"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"De",
+				"DeltaPC3"
+			],
+			[
+				"DeltaPC",
+				"DeltaPC2"
+			],
+			[
+				"geom_",
+				"geom_line"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"temp",
+				"temp"
+			],
+			[
+				"wide_b",
+				"wide_by_site_rarefy"
+			],
+			[
+				"complete",
+				"complete"
+			],
+			[
+				"TRUE",
+				"TRUE"
+			],
+			[
+				"d",
+				"dataentry"
+			],
+			[
+				"plot",
+				"plot"
+			],
+			[
+				"sph",
+				"sph"
+			],
+			[
+				"wisc",
+				"wisc"
+			],
+			[
+				"all",
+				"all"
+			],
+			[
+				"lm",
+				"lm"
+			],
+			[
+				"TMin",
+				"TMin_MAM"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"b",
+				"b"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"sublime re",
+				"SublimeREPL: R"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"sublime git",
+				"SublimeGit: Buy License"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git stta",
+				"Git: Status"
+			],
+			[
+				" git pu",
+				"Git: Push"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"qi",
+				"Git: Quick Add"
+			],
+			[
+				"qui k",
+				"Git: Quick Add"
+			],
+			[
+				"git q",
+				"Git: Quick Add"
+			],
+			[
+				"git puc",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"pa",
+				"Pandoc"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"citer",
+				"Citer: Search"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"open",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Open",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"OpenI",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 53.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"os.system('git --version')",
+			"print os.getenv('PATH')",
+			"import os",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jeremyash/projects",
+		"/Users/jeremyash/projects/centroid",
+		"/Users/jeremyash/projects/centroid/analysis"
+	],
+	"file_history":
+	[
+		"/Users/jeremyash/projects/centroid/analysis/CompleteClimateAnalog.R",
+		"/Users/jeremyash/.bash_profile",
+		"/Users/jeremyash/website-design/_config.yml",
+		"/Users/jeremyash/projects/wi_climate/analysis/ClimateAnalogPrep.R",
+		"/Users/jeremyash/website-design/README.md",
+		"/Users/jeremyash/Desktop/CompleteClimateAnalog.R",
+		"/Users/jeremyash/projects/centroid/analysis/centroid.R",
+		"/Users/jeremyash/projects/wi_climate/analysis/Raster_extract.R",
+		"/Users/jeremyash/Desktop/temp.R",
+		"/Users/jeremyash/.profile",
+		"/Users/jeremyash/Desktop/AshGoals-2015.md",
+		"/Users/jeremyash/.vimrc",
+		"/Users/jeremyash/Desktop/AshGoals-2105.md",
+		"/Users/jeremyash/projects/centroid/manuscript/Results.md",
+		"/Users/jeremyash/datasciencecoursera/HelloWorld.md",
+		"/Users/jeremyash/HelloWorld.md",
+		"/Users/jeremyash/Desktop/RRNotes.txt",
+		"/usr/share/vim/vimrc",
+		"/Users/jeremyash/projects/gis_data/code/BONAP.R",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/R-Box/R-Box.sublime-settings",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/R-Box.sublime-settings",
+		"/Users/jeremyash/Desktop/Notes for Ellen.txt",
+		"/Users/jeremyash/Desktop/WiscEco2015/AshAbstract.md",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jeremyash/projects/gis_data/code/SiteMap.R",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Installed Packages/SideBarEnhancements.sublime-package",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/jeremyash/Desktop/Abstracts/JAshAbstracts.md",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/jeremyash/Box Sync/projects/centroid/analysis/centroid.R",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/SublimeGit/Default.sublime-keymap",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/jeremyash/git/README",
+		"/Users/jeremyash/projects/README.md",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Installed Packages/Sail Color Scheme.sublime-package",
+		"/Users/jeremyash/Documents/ComputerScripts/UpdateR.txt",
+		"/Users/jeremyash/jeremyash.github.io/_config.yml",
+		"/Users/jeremyash/Desktop/test.py",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/jeremyash/.Rprofile",
+		"/Users/jeremyash/RprofileBackup.txt",
+		"/Users/jeremyash/jeremyash.github.io/index.md",
+		"/Users/jeremyash/Box Sync/Analise/Notes.txt",
+		"/Users/jeremyash/Box Sync/Analise/Code/rGBIF.R",
+		"/Users/jeremyash/Documents/Data Science/Thoughts.txt",
+		"/Users/jeremyash/jeremyash.github.io/.git/COMMIT_EDITMSG",
+		"/Users/jeremyash/jeremyash.github.io/_data/navigation.yml",
+		"/Users/jeremyash/jeremyash.github.io/about/index.md",
+		"/Users/jeremyash/jeremyash.github.io/research/index.md",
+		"/Users/jeremyash/jeremyash.github.io/posts/index.md",
+		"/Users/jeremyash/jeremyash.github.io/_octopress.yml",
+		"/Users/jeremyash/jeremyash.github.io/_layouts/home.html",
+		"/Users/jeremyash/jeremyash.github.io/_layouts/page.html",
+		"/Users/jeremyash/jeremyash.github.io/_includes/_head.html",
+		"/Users/jeremyash/jeremyash.github.io/theme-setup/index.md",
+		"/Users/jeremyash/jeremyash.github.io/README.md",
+		"/Users/jeremyash/.gitignore",
+		"/Users/jeremyash/jeremyash.github.io/.gitignore",
+		"/Users/jeremyash/jeremyash.github.io/CNAME",
+		"/Users/jeremyash/projects/centroid/analysis/ClimateAnalog.R",
+		"/Users/jeremyash/projects/bootstrapping/analysis/Bootstrap.R",
+		"/Users/jeremyash/Dropbox/DataManagement/DataPrep.R",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/archival files/AlejoWilliams2013ClimChange_Code/CODE/Fig.2.Distance.Bearings.Data_Detrending.r",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/archival files/AlejoWilliams2013ClimChange_Code/CODE/Fig.2a.Distance.Bearings.Figures.r",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/archival files/AlejoWilliams2013ClimChange_Code/CODE/Fig.3.IndVar.Dist.Bear.Fig.r",
+		"/Users/jeremyash/projects/centroid/analysis/spat_ordination.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 13/pine barrens homework 8Dec14.R",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/centroid/analysis/spat_ordination.R",
+		"/Users/jeremyash/Box Sync/Zoo 540 Box/Week 13/pine barrens homework 8Dec14.R",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/centroid/analysis/centroid.R",
+		"/Users/jeremyash/projects/centroid/manuscript/bear_table.Rnw",
+		"/Users/jeremyash/Documents/UW-Madison/Fall 2013/Stochastic Methods/Homework/HW3/HW3.Rnw",
+		"/Users/jeremyash/projects/centroid/manuscript/\\begin{document}.tex",
+		"/Users/jeremyash/Dropbox/DataManagement/ALL_sites_veg_combined.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/AshHW.Rmd",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/GrouseSim.Rmd",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/archival files/AlejoWilliams2013ClimChange_Code/CODE/Fig_2.r",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 13/Zoo 540 homework due 3Dec14 CLASS.R",
+		"/Users/jeremyash/DoB-ClimateChange/AlejoWilliams2013ClimChange_Code/CODE/Fig.2a.Distance.Bearings.Figures.r",
+		"/Users/jeremyash/DoB-ClimateChange/AlejoWilliams2013ClimChange_Code/CODE/Appendix_S5-6.r",
+		"/Users/jeremyash/DoB-ClimateChange/AlejoWilliams2013ClimChange_Code/CODE/Fig.2.Distance.Bearings.Data_Detrending.r",
+		"/Users/jeremyash/DoB-ClimateChange/AlejoWilliams2013ClimChange_Code/CODE/Appendix_S2.r",
+		"/Users/jeremyash/DoB-ClimateChange/AlejoWilliams2013ClimChange_Code/CODE/Appendix_S1.r",
+		"/Users/jeremyash/DoB-ClimateChange/ClimateAnalog/Analog.r",
+		"/Users/jeremyash/DoB-ClimateChange/AlejoWilliams2013ClimChange_Code/CODE/Appendix_S3.r",
+		"/Users/jeremyash/projects/centroid/analysis/Haman_2014.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 12/binaryPGLMM_24Nov14.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 12/Zoo 540 homework due 26Nov14.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 12/README_trait.txt",
+		"/Users/jeremyash/projects/wi_climate/analysis/Data_Extract.R",
+		"/Users/jeremyash/Documents/EMR/Climate Data/PrecipData/DownscaledDataProcess.R",
+		"/Users/jeremyash/Documents/ComputerScripts/Rose/GDD/GDDtrial_JA.R",
+		"/Users/jeremyash/Documents/ComputerScripts/Rose/DownscaledDataProcess.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 11/pine barrens homework 17Nov14.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 11/pine barrens homework 19Nov14.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 11/PB_1950.R",
+		"/Users/jeremyash/projects/.gitignore",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 11/JApine barrens homework 17Nov14.R",
+		"/Users/jeremyash/Desktop/TheoreticalEcology/Week 11/PineBarrens.Rmd",
+		"/Users/jeremyash/Box Sync/Zoo 540 Box/Week 11/pine barrens homework 17Nov14.R",
+		"/Users/jeremyash/Documents/ComputerScripts/InstallPckgSource.txt",
+		"/Users/jeremyash/Documents/ComputerScripts/Rachel/Rachel.R",
+		"/Users/jeremyash/projects/centroid/analysis/Community.Rmd",
+		"/Users/jeremyash/Desktop/PineBarrens.R",
+		"/Users/jeremyash/projects/centroid/analysis/Community.md",
+		"/Users/jeremyash/projects/centroid/analysis/Community.Rnw",
+		"/Users/jeremyash/Desktop/Test.md",
+		"/Users/jeremyash/Dropbox/Papers/AllPapers.bib",
+		"/Users/jeremyash/Desktop/MSTesting.md",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/User/Citer.sublime-settings",
+		"/Users/jeremyash/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/jeremyash/projects/.git/COMMIT_EDITMSG",
+		"/Users/jeremyash/Documents/ComputerScripts/ShowHiddenFiles.txt",
+		"/Users/jeremyash/.R/Makevars",
+		"/Users/jeremyash/Desktop/sublimegit.txt",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/OrdinationMap/OrdMap.R",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/GIS Data/Centroid_FINAL.R",
+		"/Users/jeremyash/Downloads/Backup-codes-jeremyd.ash.txt",
+		"/Users/jeremyash/Documents/ComputerScripts/HowToUpdateRprofile.txt",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/Boostrapping/Bootstrap.R",
+		"/Users/jeremyash/Desktop/TEST.R",
+		"/Users/jeremyash/Dropbox/DoB-ClimateChange/BRT/BRT.R"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uni.plots",
+			"ProfilePic",
+			".rec",
+			".past",
+			"tmin.past.win.mn",
+			" \n",
+			"\"",
+			"rec.var.df",
+			"past.var.df",
+			" #",
+			"UniPlots",
+			"select",
+			"UNIVARIATE",
+			"\")\n",
+			"=)",
+			"{}",
+			".mn",
+			".past",
+			"\\\\.past",
+			"past.",
+			"'",
+			"tmax",
+			"tmin",
+			"past",
+			"tmin",
+			" \n",
+			"%",
+			"{13-0012%2E1}",
+			"quadrats",
+			"2000",
+			"csp",
+			"November",
+			"lply",
+			"BIOCLIM.Present",
+			"CONSIDERATION",
+			"gs",
+			"str(site.data)",
+			"summary(wells.wls)",
+			"map",
+			"hist",
+			"TMIN",
+			"precip",
+			"  \n",
+			"tmax",
+			"precip",
+			"SUF",
+			"2706",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".sd",
+			"",
+			"precip",
+			"tmax",
+			"rec",
+			"tmax",
+			"1950",
+			"type",
+			"winter",
+			"tmax",
+			"tmin",
+			"tmax",
+			"NUF"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "yaml",
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 25.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"project": "WebsiteDesign.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/jeremyash.github.io/website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
